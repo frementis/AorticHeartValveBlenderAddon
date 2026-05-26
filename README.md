@@ -1,6 +1,6 @@
 # AorticHeartValveBlenderAddon
 
-## Create_aortic_valveание
+## Create_aortic_valve
 Скрипт создает анатомически точную развертку протеза для аортального клапана сердца.
 - Выбор диаметра аорта
 - Выбор толщины
@@ -8,6 +8,7 @@
 
 ### Ссылки
 [Статья](https://ieeexplore.ieee.org/document/11227507)
+
 [Демонстрация работы](https://disk.yandex.ru/i/yFfd4ZwJhX83Iw)
 
 ## length
